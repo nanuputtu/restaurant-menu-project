@@ -1,0 +1,25 @@
+{
+  "category": "Appetizers",
+  "menu_items": [
+    {
+      "id": 1,
+      "short_name": "A1",
+      "name": "Spring Rolls",
+      "description": "Crispy rolls stuffed with vegetables.",
+      "price_small": 2.95,
+      "price_large": 5.50,
+      "small_portion_name": "2 pcs",
+      "large_portion_name": "4 pcs"
+    },
+    {
+      "id": 2,
+      "short_name": "A2",
+      "name": "Chicken Dumplings",
+      "description": "Steamed dumplings filled with chicken and herbs.",
+      "price_small": 3.50,
+      "price_large": 6.95,
+      "small_portion_name": "6 pcs",
+      "large_portion_name": "12 pcs"
+    }
+  ]
+}

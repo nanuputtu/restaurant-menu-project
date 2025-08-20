@@ -1,0 +1,25 @@
+{
+  "category": "Dessert",
+  "menu_items": [
+    {
+      "id": 1,
+      "short_name": "DS1",
+      "name": "Mango Pudding",
+      "description": "Sweet and creamy mango-flavored pudding.",
+      "price_small": 3.25,
+      "price_large": 5.50,
+      "small_portion_name": "Cup",
+      "large_portion_name": "Bowl"
+    },
+    {
+      "id": 2,
+      "short_name": "DS2",
+      "name": "Chocolate Cake",
+      "description": "Rich chocolate cake with fudge icing.",
+      "price_small": 4.25,
+      "price_large": 6.95,
+      "small_portion_name": "Slice",
+      "large_portion_name": "Large Slice"
+    }
+  ]
+}

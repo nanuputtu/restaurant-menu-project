@@ -1,0 +1,7 @@
+{
+  "category": {"short_name":"L","name":"Lunch"},
+  "menu_items": [
+    {"id":1,"short_name":"L1","name":"Beef with Broccoli","description":"Tender beef with broccoli in brown sauce"},
+    {"id":2,"short_name":"L2","name":"Sweet and Sour Chicken","description":"Crispy chicken with sweet & sour sauce"}
+  ]
+}

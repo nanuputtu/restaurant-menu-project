@@ -1,0 +1,28 @@
+{
+  "category": {
+    "short_name": "SS",
+    "name": "Sushi"
+  },
+  "menu_items": [
+    {
+      "id": 1,
+      "short_name": "SS1",
+      "name": "California Roll",
+      "description": "Crab, avocado, cucumber wrapped in rice and seaweed.",
+      "price_small": 5.95,
+      "price_large": 9.95,
+      "small_portion_name": "4 pcs",
+      "large_portion_name": "8 pcs"
+    },
+    {
+      "id": 2,
+      "short_name": "SS2",
+      "name": "Spicy Tuna Roll",
+      "description": "Fresh tuna with a spicy kick, rolled in sushi rice.",
+      "price_small": 6.50,
+      "price_large": 10.50,
+      "small_portion_name": "4 pcs",
+      "large_portion_name": "8 pcs"
+    }
+  ]
+}

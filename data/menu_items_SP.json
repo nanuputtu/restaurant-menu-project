@@ -1,0 +1,28 @@
+{
+  "category": {
+    "short_name": "SP",
+    "name": "Soup"
+  },
+  "menu_items": [
+    {
+      "id": 1,
+      "short_name": "SP1",
+      "name": "Hot and Sour Soup",
+      "description": "Spicy soup with tofu and mushrooms.",
+      "price_small": 2.95,
+      "price_large": 5.95,
+      "small_portion_name": "Cup",
+      "large_portion_name": "Bowl"
+    },
+    {
+      "id": 2,
+      "short_name": "SP2",
+      "name": "Wonton Soup",
+      "description": "Classic wonton soup with pork dumplings.",
+      "price_small": 3.50,
+      "price_large": 6.50,
+      "small_portion_name": "Cup",
+      "large_portion_name": "Bowl"
+    }
+  ]
+}

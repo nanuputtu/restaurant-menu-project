@@ -1,0 +1,44 @@
+[
+  {
+    "short_name": "SS1",
+    "name": "Salmon Roll",
+    "description": "Fresh salmon wrapped in rice and seaweed.",
+    "price_small": 4.95,
+    "price_large": 8.95
+  },
+  {
+    "short_name": "SS2",
+    "name": "Tuna Roll",
+    "description": "Classic tuna sushi roll.",
+    "price_small": 5.25,
+    "price_large": 9.25
+  },
+  {
+    "short_name": "SS3",
+    "name": "California Roll",
+    "description": "Crab, avocado, and cucumber inside.",
+    "price_small": 4.75,
+    "price_large": 8.50
+  },
+  {
+    "short_name": "SS4",
+    "name": "Shrimp Tempura Roll",
+    "description": "Crispy shrimp tempura roll with sauce.",
+    "price_small": 5.50,
+    "price_large": 9.95
+  },
+  {
+    "short_name": "SS5",
+    "name": "Eel Roll",
+    "description": "Delicious grilled eel with sweet sauce.",
+    "price_small": 5.95,
+    "price_large": 10.25
+  },
+  {
+    "short_name": "SS6",
+    "name": "Avocado Roll",
+    "description": "Vegetarian sushi roll with fresh avocado.",
+    "price_small": 3.95,
+    "price_large": 6.95
+  }
+]

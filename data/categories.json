@@ -1,0 +1,8 @@
+[
+  {"short_name":"L","name":"Lunch"},
+  {"short_name":"D","name":"Dinner"},
+  {"short_name":"SS","name":"Sushi"},
+  {"short_name":"SP","name":"Soup"},
+  {"short_name":"A","name":"Appetizers"},
+  {"short_name":"DS","name":"Dessert"}
+]

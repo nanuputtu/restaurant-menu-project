@@ -1,0 +1,25 @@
+{
+  "category": "Dinner",
+  "menu_items": [
+    {
+      "id": 1,
+      "short_name": "D1",
+      "name": "Kung Pao Chicken",
+      "description": "Spicy stir-fried chicken with peanuts and vegetables.",
+      "price_small": 7.95,
+      "price_large": 11.50,
+      "small_portion_name": "Pint",
+      "large_portion_name": "Quart"
+    },
+    {
+      "id": 2,
+      "short_name": "D2",
+      "name": "Sweet & Sour Pork",
+      "description": "Crispy pork tossed in sweet and sour sauce.",
+      "price_small": 7.50,
+      "price_large": 10.95,
+      "small_portion_name": "Pint",
+      "large_portion_name": "Quart"
+    }
+  ]
+}

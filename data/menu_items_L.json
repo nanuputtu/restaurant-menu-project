@@ -1,0 +1,25 @@
+{
+  "category": "Lunch",
+  "menu_items": [
+    {
+      "id": 1,
+      "short_name": "L1",
+      "name": "Chicken Fried Rice",
+      "description": "Fried rice with chicken, eggs, and vegetables.",
+      "price_small": 5.95,
+      "price_large": 8.95,
+      "small_portion_name": "Pint",
+      "large_portion_name": "Quart"
+    },
+    {
+      "id": 2,
+      "short_name": "L2",
+      "name": "Beef Chow Mein",
+      "description": "Noodles stir-fried with beef and vegetables.",
+      "price_small": 6.25,
+      "price_large": 9.25,
+      "small_portion_name": "Pint",
+      "large_portion_name": "Quart"
+    }
+  ]
+}
